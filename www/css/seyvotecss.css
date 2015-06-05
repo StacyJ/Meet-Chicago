@@ -6,7 +6,7 @@ body {
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-	background-size: 100% 100%;
+	background-size: 100%;
 }
 
 #header {
@@ -21,7 +21,7 @@ body {
 .left {
 	height: 300px;
 	width: 150px;
-	background-color: #0000CD;
+	background-color: green;
 	float: left;
 	margin-bottom: 10px;
 	padding-left: 15px;
@@ -33,7 +33,7 @@ body {
 .right {
 	height: 300px;
 	width: 150px;
-	background-color: ;
+	background-color: orange ;
 	float: right;
 	margin-bottom: 10px;
 	padding-left: 17px;
@@ -49,6 +49,7 @@ p {
 }
 #footer {
 	height: 150px;
+	background-color: gray;
 	background-image: url("") ;
 	background-position: center;
 	background-size: 100% 100%;
